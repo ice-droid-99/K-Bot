@@ -1,4 +1,4 @@
-This is a Multipurpose Discord Bot.
+This is a Multipurpose Discord Bot written in Python Language.
 <br>
 1.+gnm to play guess the number between 1-100 Game
 <br>
@@ -8,4 +8,4 @@ This is a Multipurpose Discord Bot.
 <br>
 4.Basic Arithmetic Operations using Regex
 <br>
-5.Can fetch current Date and Time for any city
+5.Can fetch current Date and Time for any Place. Uses Regex Pattern , Geopy , TimezoneFinder , Pytz Libraries
